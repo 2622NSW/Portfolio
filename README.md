@@ -10,6 +10,8 @@ I started to host my ePortfolio here in March 2017. My first attempts at a GitHu
 
 There is a brief introduction on my [Clyde Street](https://keithlyons.me/about/) blog and [here] (https://keithlyons.me/keith-lyons/).
 
+Other profiles include:
+
 My [About.Me](https://about.me/keithlyons) page  
 [Twitter](https://twitter.com/520507?lang=en)  
 [LinkedIn](https://www.linkedin.com/in/clydestreet/)  
