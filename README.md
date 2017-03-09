@@ -12,7 +12,7 @@ There is a brief introduction on my [Clyde Street](https://keithlyons.me/about/)
 
 Other profiles include:
 
-My [About.Me](https://about.me/keithlyons) page  
+[About.Me](https://about.me/keithlyons)    
 [Twitter](https://twitter.com/520507?lang=en)  
 [LinkedIn](https://www.linkedin.com/in/clydestreet/)  
 [ORCID](http://orcid.org/0000-0001-8870-865X)  
