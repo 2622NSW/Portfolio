@@ -8,10 +8,10 @@ I started to host my ePortfolio here in March 2017. My first attempts at a GitHu
 
 ## About Me
 
-A brief introduction on my [Clyde Street](https://keithlyons.me/about/) blog (and [here] (https://keithlyons.me/keith-lyons/). 
-My [About.Me](https://about.me/keithlyons) page.
-[Twitter](https://twitter.com/520507?lang=en).
-[LinkedIn](https://www.linkedin.com/in/clydestreet/).
-[ORCID](http://orcid.org/0000-0001-8870-865X)
-[GitHub](https://github.com/2622NSW)
+A brief introduction on my [Clyde Street](https://keithlyons.me/about/) blog and [here] (https://keithlyons.me/keith-lyons/).   
+My [About.Me](https://about.me/keithlyons) page  
+[Twitter](https://twitter.com/520507?lang=en)  
+[LinkedIn](https://www.linkedin.com/in/clydestreet/)  
+[ORCID](http://orcid.org/0000-0001-8870-865X)  
+[GitHub](https://github.com/2622NSW)  
 
