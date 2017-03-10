@@ -37,6 +37,25 @@ Other profiles include:
 [Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/) (Facebook)  
 [Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/) (Facebook)  
 [lIASIng](http://www.scoop.it/t/liasing) (News Aggregator)  
-[Storify](https://storify.com/520507) (# Aggregator) 
+[Storify](https://storify.com/520507) (# Aggregator)   
+
+### Google Slides
+
+[Computable Numbers: Alan Turing](https://docs.google.com/presentation/d/10Myo_t0w6kPyuKqwqVtodHemT0TliwCr1uzt_SRUfS0/edit?usp=sharing)  
+[Computers and Cognition](https://docs.google.com/presentation/d/1JN5JQ1MOh2_od3dChp_WbF0OYUjEaJByW5I0WP_J_6M/edit?usp=sharing)  
+[Computing Machinery and Intelligence: Alan Turing](https://docs.google.com/presentation/d/1XAosMeomJTdprMSGnr_4IcAD00F8aK2mgun6S0Y6BLQ/edit?usp=sharing)  
+[Data Science: Graham Williams](https://docs.google.com/presentation/d/1tsmuRhBOHzm1vVzYkoZ43UhOcaD6bsjDt2654AexolM/edit?usp=sharing)  
+[The Evolution of Performance Analysis](https://docs.google.com/presentation/d/1gmIoYdKE8HJx3iqqPEYRxIRk6yjqYnJ456tTkVOXEJA/edit?usp=sharing)  
+[Introduction to Pattern Recognition](https://docs.google.com/presentation/d/1IMmCNzXZNqNYO20e-2Uq2qaeNmLxGuCbTsXnhJ2En6c/edit?usp=sharing)  
+[Introductions](https://docs.google.com/presentation/d/1xzVhVrBOPOBjDYOcTD7vBGvQhhJLJ4zbIb23YQcvIhs/edit?usp=sharing)  
+[Maching Learning: Arthur Samuel](https://docs.google.com/presentation/d/1n3jDtoIA7VRc7ME7OWxxHAKpYAVlz8MTOP1E95_cmD4/edit?usp=sharing)  
+[Pattern Recognition](https://docs.google.com/presentation/d/1SQJZLqJUTt__GlDc69F6OLdVkog39Q1YFuslTKHri4Q/edit?usp=sharing)  
+[Pattern Recognition: David Marr](https://docs.google.com/presentation/d/1APQRezNcCtD_ZxI2ZJkx5tJABSOE9F68WM9qq7PT9o8/edit?usp=sharing)  
+[Performance Monitoring](https://docs.google.com/presentation/d/1LpBgS9IO9KGK_D3YALUOlXoPuGWIIlOwEbiqhv1yQV0/edit?usp=sharing)  
+[R in Your Analysis ans Analytics Toolbox](https://docs.google.com/presentation/d/1qIF4FHFpvjsC2FOdOPjc4cEpN0oaWnwBrS9WbC3dDL8/edit?usp=sharing)  
+[Sharing and Competitive Adavantage](https://docs.google.com/presentation/d/1H1m2FzlO0en3L2NM3avh41T14PSiziR0EvBx8aejsLg/edit?usp=sharing)  
+[Sport Informatics and Analytics](https://docs.google.com/presentation/d/1RArhG6FDZoBUm8CWbyKuSb-5CKJHR0BXqoOTit9oPrA/edit?usp=sharing)  
+[Storytelling](https://docs.google.com/presentation/d/1n0F2Q2-JzUnLi3c_davTP2jz0a68ddErJqx2HgbWYAw/edit?usp=sharing)  
+[Three Informatics Papers](https://docs.google.com/presentation/d/1IGpT16QLJEFTtkoRkiU_RSFqJAsN5uYk1HfbVV9U0WY/edit?usp=sharing)
 
 
