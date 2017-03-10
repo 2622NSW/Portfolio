@@ -23,6 +23,12 @@ Other profiles include:
 [Twitter](https://twitter.com/520507?lang=en)  
 [LinkedIn](https://www.linkedin.com/in/clydestreet/)  
 [ORCID](http://orcid.org/0000-0001-8870-865X)  
-[GitHub](https://github.com/2622NSW)  
+[WikiEducator](https://wikieducator.org/User:Postillion)
+[GitHub](https://github.com/2622NSW)    
 
 ## Distributed Resources
+
+[Clyde Street](https://keithlyons.me/)  
+[Slideshare](https://www.slideshare.net/Postillion)  
+
+
