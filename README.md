@@ -28,8 +28,8 @@ Other profiles include:
 
 ## Distributed Resources
 
-[Clyde Street](https://keithlyons.me/) (Blog)   
-[Slideshare](https://www.slideshare.net/Postillion) (Presentations)    
+[Clyde Street](https://keithlyons.me/) (1500 Blog posts)   
+[Slideshare](https://www.slideshare.net/Postillion) (83 Presentations)    
 [Sport Informatics and Analytics](http://wikieducator.org/Sport_Informatics_and_Analytics) (WikiEducator)  
 [Sport Informatics and Analytics](https://sites.google.com/site/ucsportinformaticsandanalytics/) (Google Sites)   
 [Sport Informatics and Analytics](https://learn.canvas.net/courses/536) (Canvas)  
