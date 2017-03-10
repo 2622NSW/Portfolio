@@ -15,7 +15,7 @@ I am hopeful that this repository explifies Stephen Downes' [2016](https://www.s
 
 ## About Me: Keith Lyons
 
-There is a brief introduction on my [Clyde Street](https://keithlyons.me/about/) blog and [here] (https://keithlyons.me/keith-lyons/).
+There is a brief introduction on my [Clyde Street](https://keithlyons.me/about/) blog and [here] (https://keithlyons.me/keith-lyons/) also.
 
 Other profiles include:
 
