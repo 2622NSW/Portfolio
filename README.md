@@ -26,18 +26,21 @@ Other profiles include:
 [WikiEducator](https://wikieducator.org/User:Postillion)  
 [GitHub](https://github.com/2622NSW)    
 
-## Distributed Resources
+## Online, Open Resources
 
-[Clyde Street](https://keithlyons.me/) (1500 Blog posts)   
-[Slideshare](https://www.slideshare.net/Postillion) (83 Presentations)    
-[Sport Informatics and Analytics](http://wikieducator.org/Sport_Informatics_and_Analytics) (WikiEducator)  
-[Sport Informatics and Analytics](https://sites.google.com/site/ucsportinformaticsandanalytics/) (Google Sites)   
-[Sport Informatics and Analytics](https://learn.canvas.net/courses/536) (Canvas)  
-[Sport Informatics and Analytics](https://www.facebook.com/Sport-Informatics-and-Analytics-548685338592152/) (Facebook)  
-[Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/) (Facebook)  
-[Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/) (Facebook)  
-[lIASIng](http://www.scoop.it/t/liasing) (News Aggregator)  
-[Storify](https://storify.com/520507) (# Aggregator)   
+### Blog
+
+[Clyde Street](https://keithlyons.me/)   
+
+### Canvas
+
+[Sport Informatics and Analytics](https://learn.canvas.net/courses/536) 
+
+### Facebook
+
+[Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/)
+[Sport Informatics and Analytics](https://www.facebook.com/Sport-Informatics-and-Analytics-548685338592152/)    
+[Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/)   
 
 ### Google Slides
 
@@ -57,5 +60,32 @@ Other profiles include:
 [Sport Informatics and Analytics](https://docs.google.com/presentation/d/1RArhG6FDZoBUm8CWbyKuSb-5CKJHR0BXqoOTit9oPrA/edit?usp=sharing)  
 [Storytelling](https://docs.google.com/presentation/d/1n0F2Q2-JzUnLi3c_davTP2jz0a68ddErJqx2HgbWYAw/edit?usp=sharing)  
 [Three Informatics Papers](https://docs.google.com/presentation/d/1IGpT16QLJEFTtkoRkiU_RSFqJAsN5uYk1HfbVV9U0WY/edit?usp=sharing)
+
+### Google Sites
+
+[Sport Informatics and Analytics](https://sites.google.com/site/ucsportinformaticsandanalytics/)   
+
+### Scoop It
+
+[lIASIng](http://www.scoop.it/t/liasing)  
+
+### Slideshare
+
+[Slideshare](https://www.slideshare.net/Postillion)   
+
+### Storify
+
+[Storify](https://storify.com/520507)   
+
+### WikiEducator
+
+[Sport Informatics and Analytics](http://wikieducator.org/Sport_Informatics_and_Analytics)   
+ 
+
+
+  
+ 
+
+
 
 
