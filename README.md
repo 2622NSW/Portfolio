@@ -23,12 +23,20 @@ Other profiles include:
 [Twitter](https://twitter.com/520507?lang=en)  
 [LinkedIn](https://www.linkedin.com/in/clydestreet/)  
 [ORCID](http://orcid.org/0000-0001-8870-865X)  
-[WikiEducator](https://wikieducator.org/User:Postillion)
+[WikiEducator](https://wikieducator.org/User:Postillion)  
 [GitHub](https://github.com/2622NSW)    
 
 ## Distributed Resources
 
-[Clyde Street](https://keithlyons.me/)  
-[Slideshare](https://www.slideshare.net/Postillion)  
+[Clyde Street](https://keithlyons.me/) (Blog)   
+[Slideshare](https://www.slideshare.net/Postillion) (Presentations)    
+[Sport Informatics and Analytics](http://wikieducator.org/Sport_Informatics_and_Analytics) (WikiEducator)  
+[Sport Informatics and Analytics](https://sites.google.com/site/ucsportinformaticsandanalytics/) (Google Sites)   
+[Sport Informatics and Analytics](https://learn.canvas.net/courses/536) (Canvas)  
+[Sport Informatics and Analytics](https://www.facebook.com/Sport-Informatics-and-Analytics-548685338592152/) (Facebook)  
+[Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/) (Facebook)  
+[Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/) (Facebook)  
+[lIASIng](http://www.scoop.it/t/liasing) (News Aggregator)
+[Storify](https://storify.com/520507) (# Aggregator) 
 
 
