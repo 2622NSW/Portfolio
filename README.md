@@ -36,7 +36,7 @@ Other profiles include:
 [Sport Informatics and Analytics](https://www.facebook.com/Sport-Informatics-and-Analytics-548685338592152/) (Facebook)  
 [Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/) (Facebook)  
 [Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/) (Facebook)  
-[lIASIng](http://www.scoop.it/t/liasing) (News Aggregator)
+[lIASIng](http://www.scoop.it/t/liasing) (News Aggregator)  
 [Storify](https://storify.com/520507) (# Aggregator) 
 
 
