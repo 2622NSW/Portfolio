@@ -69,6 +69,20 @@ Other profiles include:
 [Sport Informatics and Analytics](https://docs.google.com/document/d/1jzneqKPwG3RWQZI-PI1W8EpqwnDu2UqPVCjHW7Tujwc/edit?usp=sharing)  
 [#UCSIA16 Reads](https://docs.google.com/document/d/1eZRyQXBCvSAr7uPfvETebT1pPuFKYskIx12YI5euNes/edit?usp=sharing)
 
+### Google Sheets
+
+[2013 Six Nations Championship](https://docs.google.com/spreadsheets/d/1H0IFQ-j0TvgWeGNcUZks99ZAIUwciQXI-NXWLfhVpcY/edit?usp=sharing)  
+[AFL 2016 Scoring Patterns Regular Season](https://docs.google.com/spreadsheets/d/1bUZr9mhxgLVDsFDtFabU_xMhwn2085eYcibpf4572i4/edit?usp=sharing)  
+[CitiBike Trip Data](https://docs.google.com/spreadsheets/d/1L2LPhYFfSX1P-YEpcnAXXjdmjpMt-J0m4v018DiYuTE/edit?usp=sharing)  
+[Game Theoretic: Within game cap variation](https://docs.google.com/spreadsheets/d/174L5yWtmsZJ2ZmZMklfBl2dYJ0fEAMH5Burd_2T2DgM/edit?usp=sharing)  
+[Hosting the Summer Olympic Games](https://docs.google.com/spreadsheets/d/1Z5fKOYtTlXwPbpYTieZf4igudbRIxJpz0QxARrf4StE/edit?usp=sharing)  
+[Olympic Medal Trends](https://docs.google.com/spreadsheets/d/1BPpw45vhTPSn-0PgWG04ihG53GI4b262DyOVXneqy0U/edit?usp=sharing)  
+[Rio Olympic Medals](https://docs.google.com/spreadsheets/d/1F-58KD5Tnm-cTAF-eWphVcvsXFa-s9-QGzw-O0iUF6o/edit?usp=sharing)  
+[RWC2015 Age and Cap Profiles](https://docs.google.com/spreadsheets/d/1yxDX4iGsUQDt4HL2V8XmviaEqZjtXQhAb0zH5Xd6wKQ/edit?usp=sharing)  
+[RWC2015 Cap Profiles](https://docs.google.com/spreadsheets/d/1DvsLR3wF5shyiOegxtKau3vYjxU5MXDDPOSlUE1SBNs/edit?usp=sharing)  
+[Women's Olympic Football 2016](https://docs.google.com/spreadsheets/d/1U8JBLqec0syHNzdg96ibdPerRRidq_kfo4ptSAxxWGU/edit?usp=sharing)
+
+
 ### Google Slides
 
 [Audiences and Messages](https://docs.google.com/presentation/d/15us_N1pH6ZGtLPVXJZOtqWZmqXio0J2FZZ6Vgqo760c/edit?usp=sharing)  
