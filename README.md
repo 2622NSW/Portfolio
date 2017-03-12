@@ -45,21 +45,27 @@ Other profiles include:
 
 ### Google Docs
 
+[Analysing Netball Performance](https://docs.google.com/document/d/1QceVT-km8uanhiSwdZeXCPbZQRkAV9mT1mYjfD7SXJ4/edit?usp=sharing)  
 [Analytic Narrative](https://docs.google.com/document/d/1dbJr563V20ZfSRdPeKymp0D56p0CBYVyWEaT0UhFkz4/edit?usp=sharing)  
+[Artificial Intelligence](https://docs.google.com/document/d/1qNGd28mfnDL-5_WyploIrwfJmi7i-uyn1Y5O6nbw-MQ/edit?usp=sharing)  
 [Charles Reep](https://docs.google.com/document/d/1KANFBDCvV4HkGvESqj5QnMMqwQ2jhjDVzEyhP5byR40/edit?usp=sharing)  
 [Conformal Prediction](https://docs.google.com/document/d/1LqE78GO-xk0ecURro7KKJi2EXr5fTkahMK6CPH_pn-Y/edit?usp=sharing)  
 [Critical Friend Literature](https://docs.google.com/document/d/1u8FFvzlzqS_6vZ4b3d4nxDm1hM3ZP1enTbjojqjbpDw/edit?usp=sharing)  
 [#cssia17 reads](https://docs.google.com/document/d/1dWwhMcq9c_lg5Y_fSKnZ6ii0-kUfFVdVDlBUcl09TCo/edit?usp=sharing)  
 [Game Insight Group (Tennis)](https://docs.google.com/document/d/1n8_oZ8OSXF7fBmSLDJPlO1QMXuQ5tmZ7s5sVytg23_s/edit?usp=sharing)  
+[Ideal Type](https://docs.google.com/document/d/1jAyjY8RS6UjywJOkxy5xfbYVylU8d39gd3CpdQvJoKQ/edit?usp=sharing)  
 [Introduction to Sport Informatics and Analytics](https://docs.google.com/document/d/15Hxyh5oZun3AN9549_oQEkTFHhigCLylzYVOQfu0xZE/edit?usp=sharing)  
 [Investigating Bicycle Data](https://docs.google.com/document/d/1d97Y9izRg54sN4kbwqGIrBffI-dahIilAw3ibESfrpc/edit?usp=sharing)  
 [Learning Analytics](https://docs.google.com/document/d/1ZnWl8oF5qh2RLcowC--N6U2tuJ6dn4ny3FTeJ-pq7TY/edit?usp=sharing)  
 [Neil Lanham](https://docs.google.com/document/d/1hOQKCwejYF9mvjSvoPraENdmplu1XFD2HrmjyzUk590/edit?usp=sharing)  
+[Optimisation](https://docs.google.com/document/d/1gDPktXR2-W2WRdCo3qA-3QVg4jYGuPsgooE4pvvHPiU/edit?usp=sharing)  
 [Oxford and Cambridge Boat Race](https://docs.google.com/document/d/1l_zmgZmekV8onH5aqPYRQ1D1me2e-ROZpXwin_JeIwI/edit?usp=sharing)  
 [Performativity](https://docs.google.com/document/d/17aV176uMp4WPaaE4QU8-xraXsDjohp96j6FMwrUSLQ0/edit?usp=sharing)  
 [Random Walk](https://docs.google.com/document/d/1mQGLhOk8g-38UywmB74WYnxCIVaM56mpMY-A5pTYnfw/edit?usp=sharing)  
+[Reflective Teaching and Assessment](https://docs.google.com/document/d/1YR9Px4Xdq4iinmRQ6G-7KwfLq0tdUIgutJxYLZaFM8w/edit?usp=sharing)  
 [R Resources](https://docs.google.com/document/d/194FKCtvO6K-nsFZhiSGLYfmMWNE0NFa8L-oTVQA55EM/edit?usp=sharing)  
 [Scottish Hill Race Data](https://docs.google.com/document/d/12e8o3cq8loWBBEaSVaklwNZHxFBRE3WGDOB2OmU1czk/edit?usp=sharing)  
+[Shots, Quality, Ratios, Expected Goals](https://docs.google.com/document/d/1OrMshPdXiK2qGj8AVYikbOd53qSI_PYxupDLG6E4d_w/edit?usp=sharing)  
 [Sport Informatics and Analytics](https://docs.google.com/document/d/1jzneqKPwG3RWQZI-PI1W8EpqwnDu2UqPVCjHW7Tujwc/edit?usp=sharing)  
 [#UCSIA16 Reads](https://docs.google.com/document/d/1eZRyQXBCvSAr7uPfvETebT1pPuFKYskIx12YI5euNes/edit?usp=sharing)
 
