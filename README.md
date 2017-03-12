@@ -54,7 +54,7 @@ Other profiles include:
 [Introduction to Sport Informatics and Analytics](https://docs.google.com/document/d/15Hxyh5oZun3AN9549_oQEkTFHhigCLylzYVOQfu0xZE/edit?usp=sharing)  
 [Investigating Bicycle Data](https://docs.google.com/document/d/1d97Y9izRg54sN4kbwqGIrBffI-dahIilAw3ibESfrpc/edit?usp=sharing)  
 [Learning Analytics](https://docs.google.com/document/d/1ZnWl8oF5qh2RLcowC--N6U2tuJ6dn4ny3FTeJ-pq7TY/edit?usp=sharing)  
-[Neil Lanham](https://docs.google.com/document/d/1hOQKCwejYF9mvjSvoPraENdmplu1XFD2HrmjyzUk590/edit?usp=sharing)
+[Neil Lanham](https://docs.google.com/document/d/1hOQKCwejYF9mvjSvoPraENdmplu1XFD2HrmjyzUk590/edit?usp=sharing)  
 [Oxford and Cambridge Boat Race](https://docs.google.com/document/d/1l_zmgZmekV8onH5aqPYRQ1D1me2e-ROZpXwin_JeIwI/edit?usp=sharing)  
 [Performativity](https://docs.google.com/document/d/17aV176uMp4WPaaE4QU8-xraXsDjohp96j6FMwrUSLQ0/edit?usp=sharing)  
 [Random Walk](https://docs.google.com/document/d/1mQGLhOk8g-38UywmB74WYnxCIVaM56mpMY-A5pTYnfw/edit?usp=sharing)  
