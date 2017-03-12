@@ -61,7 +61,7 @@ Other profiles include:
 [R Resources](https://docs.google.com/document/d/194FKCtvO6K-nsFZhiSGLYfmMWNE0NFa8L-oTVQA55EM/edit?usp=sharing)  
 [Scottish Hill Race Data](https://docs.google.com/document/d/12e8o3cq8loWBBEaSVaklwNZHxFBRE3WGDOB2OmU1czk/edit?usp=sharing)  
 [Sport Informatics and Analytics](https://docs.google.com/document/d/1jzneqKPwG3RWQZI-PI1W8EpqwnDu2UqPVCjHW7Tujwc/edit?usp=sharing)  
-[#UCSIA16](https://docs.google.com/document/d/1eZRyQXBCvSAr7uPfvETebT1pPuFKYskIx12YI5euNes/edit?usp=sharing)
+[#UCSIA16 Reads](https://docs.google.com/document/d/1eZRyQXBCvSAr7uPfvETebT1pPuFKYskIx12YI5euNes/edit?usp=sharing)
 
 ### Google Slides
 
