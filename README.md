@@ -42,6 +42,19 @@ Other profiles include:
 [Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/)   
 [Sport Informatics and Analytics](https://www.facebook.com/Sport-Informatics-and-Analytics-548685338592152/)  
 
+### Google Docs
+
+[Critical Friend Literature](https://docs.google.com/document/d/1u8FFvzlzqS_6vZ4b3d4nxDm1hM3ZP1enTbjojqjbpDw/edit?usp=sharing)  
+[#cssia17 reads](https://docs.google.com/document/d/1dWwhMcq9c_lg5Y_fSKnZ6ii0-kUfFVdVDlBUcl09TCo/edit?usp=sharing)  
+[Game Insight Group (Tennis)](https://docs.google.com/document/d/1n8_oZ8OSXF7fBmSLDJPlO1QMXuQ5tmZ7s5sVytg23_s/edit?usp=sharing)  
+[Investigating Bicycle Data](https://docs.google.com/document/d/1d97Y9izRg54sN4kbwqGIrBffI-dahIilAw3ibESfrpc/edit?usp=sharing)  
+[Oxford and Cambridge Boat race](https://docs.google.com/document/d/1l_zmgZmekV8onH5aqPYRQ1D1me2e-ROZpXwin_JeIwI/edit?usp=sharing)  
+[Performativity](https://docs.google.com/document/d/17aV176uMp4WPaaE4QU8-xraXsDjohp96j6FMwrUSLQ0/edit?usp=sharing)  
+[Random Walk](https://docs.google.com/document/d/1mQGLhOk8g-38UywmB74WYnxCIVaM56mpMY-A5pTYnfw/edit?usp=sharing)  
+[R Resources](https://docs.google.com/document/d/194FKCtvO6K-nsFZhiSGLYfmMWNE0NFa8L-oTVQA55EM/edit?usp=sharing)  
+[Scottish Hill Race Data](https://docs.google.com/document/d/12e8o3cq8loWBBEaSVaklwNZHxFBRE3WGDOB2OmU1czk/edit?usp=sharing)  
+[Sport Informatics and Analytics](https://docs.google.com/document/d/1jzneqKPwG3RWQZI-PI1W8EpqwnDu2UqPVCjHW7Tujwc/edit?usp=sharing)
+
 ### Google Slides
 
 [Audiences and Messages](https://docs.google.com/presentation/d/15us_N1pH6ZGtLPVXJZOtqWZmqXio0J2FZZ6Vgqo760c/edit?usp=sharing)  
