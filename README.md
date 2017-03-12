@@ -38,7 +38,7 @@ Other profiles include:
 
 ### Facebook
 
-[Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/)
+[Business, Politics and Sport](https://www.facebook.com/Business-Politics-and-Sport-127657700659888/)  
 [Sport Informatics and Analytics](https://www.facebook.com/Sport-Informatics-and-Analytics-548685338592152/)    
 [Sport Coaching Pedagogy](https://www.facebook.com/SportCoachingPedagogy2013/)   
 
