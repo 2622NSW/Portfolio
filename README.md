@@ -65,6 +65,7 @@ Other profiles include:
 [Learning Analytics](https://docs.google.com/document/d/1ZnWl8oF5qh2RLcowC--N6U2tuJ6dn4ny3FTeJ-pq7TY/edit?usp=sharing)  
 [Men's 400m Track Times 1](https://docs.google.com/document/d/1tKGOU_BOgHjPsHCZzxug906YbuVI0AunL9MxTqY24_I/edit?usp=sharing)  
 [Men's 400m Track Times 2](https://docs.google.com/document/d/1i-wLdtTDH-zMskewjfrAIBt9eX_C5rLkmGIZDDkFASQ/edit?usp=sharing)  
+[Mixed Methods](https://docs.google.com/document/d/1BNeXx3QQuYWGc-ClX4I-AMwU88TJJOgxuYW8GfogIIE/edit?usp=sharing)  
 [Neil Lanham](https://docs.google.com/document/d/1hOQKCwejYF9mvjSvoPraENdmplu1XFD2HrmjyzUk590/edit?usp=sharing)  
 [Optimisation](https://docs.google.com/document/d/1gDPktXR2-W2WRdCo3qA-3QVg4jYGuPsgooE4pvvHPiU/edit?usp=sharing)  
 [Oxford and Cambridge Boat Race](https://docs.google.com/document/d/1l_zmgZmekV8onH5aqPYRQ1D1me2e-ROZpXwin_JeIwI/edit?usp=sharing)  
