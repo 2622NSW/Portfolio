@@ -47,16 +47,24 @@ Other profiles include:
 
 [Analysing Netball Performance](https://docs.google.com/document/d/1QceVT-km8uanhiSwdZeXCPbZQRkAV9mT1mYjfD7SXJ4/edit?usp=sharing)  
 [Analytic Narrative](https://docs.google.com/document/d/1dbJr563V20ZfSRdPeKymp0D56p0CBYVyWEaT0UhFkz4/edit?usp=sharing)  
+[Analytics](https://docs.google.com/document/d/1aWVvZWkwOr-QhSnQ3UX7WoQBz7hw7s6nDjLfpshuiLs/edit?usp=sharing)  
 [Artificial Intelligence](https://docs.google.com/document/d/1qNGd28mfnDL-5_WyploIrwfJmi7i-uyn1Y5O6nbw-MQ/edit?usp=sharing)  
 [Charles Reep](https://docs.google.com/document/d/1KANFBDCvV4HkGvESqj5QnMMqwQ2jhjDVzEyhP5byR40/edit?usp=sharing)  
 [Conformal Prediction](https://docs.google.com/document/d/1LqE78GO-xk0ecURro7KKJi2EXr5fTkahMK6CPH_pn-Y/edit?usp=sharing)  
 [Critical Friend Literature](https://docs.google.com/document/d/1u8FFvzlzqS_6vZ4b3d4nxDm1hM3ZP1enTbjojqjbpDw/edit?usp=sharing)  
 [#cssia17 reads](https://docs.google.com/document/d/1dWwhMcq9c_lg5Y_fSKnZ6ii0-kUfFVdVDlBUcl09TCo/edit?usp=sharing)  
+[Data Science Skills](https://docs.google.com/document/d/1w40LPIC3Mxxb4lrXJzXmbvNLC3CZ6UEBi-KdPkj5Cvo/edit?usp=sharing)  
+[Decision Support Systems](https://docs.google.com/document/d/1wi0Bwg9AOp_8a2q0yd6AIBdujCvbGjnq04Nh1GnVP5A/edit?usp=sharing)  
+[Evidence-Based Learning Analytics Interventions](https://docs.google.com/document/d/1TJQMKva0BItqaLXGPt1-QxgUDmb6M--wIsr_0UIL_Kc/edit?usp=sharing)  
+[From Relative Phase to Random Walk](https://docs.google.com/document/d/13mJIFc4_cHhwvrwKWBgjFqYlGMoqHGucqi9yxsBETWc/edit?usp=sharing)  
 [Game Insight Group (Tennis)](https://docs.google.com/document/d/1n8_oZ8OSXF7fBmSLDJPlO1QMXuQ5tmZ7s5sVytg23_s/edit?usp=sharing)  
+[Goals Scored Group Games: World Cup 2014](https://docs.google.com/document/d/1HNwV2Iica_7n7nPXQD0vOKqAal4JHgSWyTEQeo01noc/edit?usp=sharing)  
 [Ideal Type](https://docs.google.com/document/d/1jAyjY8RS6UjywJOkxy5xfbYVylU8d39gd3CpdQvJoKQ/edit?usp=sharing)  
 [Introduction to Sport Informatics and Analytics](https://docs.google.com/document/d/15Hxyh5oZun3AN9549_oQEkTFHhigCLylzYVOQfu0xZE/edit?usp=sharing)  
 [Investigating Bicycle Data](https://docs.google.com/document/d/1d97Y9izRg54sN4kbwqGIrBffI-dahIilAw3ibESfrpc/edit?usp=sharing)  
 [Learning Analytics](https://docs.google.com/document/d/1ZnWl8oF5qh2RLcowC--N6U2tuJ6dn4ny3FTeJ-pq7TY/edit?usp=sharing)  
+[Men's 400m Track Times 1](https://docs.google.com/document/d/1tKGOU_BOgHjPsHCZzxug906YbuVI0AunL9MxTqY24_I/edit?usp=sharing)  
+[Men's 400m Track Times 2](https://docs.google.com/document/d/1i-wLdtTDH-zMskewjfrAIBt9eX_C5rLkmGIZDDkFASQ/edit?usp=sharing)  
 [Neil Lanham](https://docs.google.com/document/d/1hOQKCwejYF9mvjSvoPraENdmplu1XFD2HrmjyzUk590/edit?usp=sharing)  
 [Optimisation](https://docs.google.com/document/d/1gDPktXR2-W2WRdCo3qA-3QVg4jYGuPsgooE4pvvHPiU/edit?usp=sharing)  
 [Oxford and Cambridge Boat Race](https://docs.google.com/document/d/1l_zmgZmekV8onH5aqPYRQ1D1me2e-ROZpXwin_JeIwI/edit?usp=sharing)  
@@ -67,7 +75,9 @@ Other profiles include:
 [Scottish Hill Race Data](https://docs.google.com/document/d/12e8o3cq8loWBBEaSVaklwNZHxFBRE3WGDOB2OmU1czk/edit?usp=sharing)  
 [Shots, Quality, Ratios, Expected Goals](https://docs.google.com/document/d/1OrMshPdXiK2qGj8AVYikbOd53qSI_PYxupDLG6E4d_w/edit?usp=sharing)  
 [Sport Informatics and Analytics](https://docs.google.com/document/d/1jzneqKPwG3RWQZI-PI1W8EpqwnDu2UqPVCjHW7Tujwc/edit?usp=sharing)  
-[#UCSIA16 Reads](https://docs.google.com/document/d/1eZRyQXBCvSAr7uPfvETebT1pPuFKYskIx12YI5euNes/edit?usp=sharing)
+[#UCSIA16 Reads](https://docs.google.com/document/d/1eZRyQXBCvSAr7uPfvETebT1pPuFKYskIx12YI5euNes/edit?usp=sharing)  
+[VUCA](https://docs.google.com/document/d/1F8GHs96CuSBecL3yz_67AU0aPjntG2B106kGnK2yhJA/edit?usp=sharing)  
+
 
 ### Google Sheets
 
