@@ -1,8 +1,8 @@
-# Portfolio
+# ePortfolio
 
 ## Introduction
 
-This is my [ePortfolio](http://wikieducator.org/Sport_Informatics_and_Analytics/ePortfolio#Some_Background_Information) learning and aggregation space.
+This is my [ePortfolio](http://wikieducator.org/Sport_Informatics_and_Analytics/ePortfolio#Some_Background_Information) repository.
 
 It is my response to [Joi Ito](https://civic.mit.edu/blog/mstem/joi-itos-9-principles-of-the-media-lab)'s proposal that _learning_ is what we do to ourselves.
 
